@@ -1,0 +1,10 @@
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\bin\Debug\AwesomeProject.exe.config
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\bin\Debug\AwesomeProject.exe
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\bin\Debug\AwesomeProject.pdb
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\bin\Debug\AwesomeProject.xml
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\obj\Debug\AwesomeProject.vbprojResolveAssemblyReference.cache
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\obj\Debug\AwesomeProject.Resources.resources
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\obj\Debug\AwesomeProject.vbproj.GenerateResource.Cache
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\obj\Debug\AwesomeProject.exe
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\obj\Debug\AwesomeProject.xml
+C:\Users\thund\Desktop\AwesomeProject\AwesomeProject\obj\Debug\AwesomeProject.pdb
