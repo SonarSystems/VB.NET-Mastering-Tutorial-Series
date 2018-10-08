@@ -1,0 +1,17 @@
+C:\Users\thund\Desktop\FormApp\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\thund\Desktop\FormApp\FormApp\bin\Debug\FormApp.exe
+C:\Users\thund\Desktop\FormApp\FormApp\bin\Debug\FormApp.pdb
+C:\Users\thund\Desktop\FormApp\FormApp\bin\Debug\FormApp.xml
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.vbprojResolveAssemblyReference.cache
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.Resources.resources
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.vbproj.GenerateResource.Cache
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.exe
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.xml
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.pdb
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.Form1.aa-DJ.resources
+C:\Users\thund\Desktop\FormApp\FormApp\bin\Debug\aa-DJ\FormApp.resources.dll
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\aa-DJ\FormApp.resources.dll
+C:\Users\thund\Desktop\FormApp\FormApp\bin\Debug\en-150\FormApp.resources.dll
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\FormApp.Form1.en-150.resources
+C:\Users\thund\Desktop\FormApp\FormApp\obj\Debug\en-150\FormApp.resources.dll
