@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+
+<vehicles>
+   <car atr="carAttribute1">
+      <company>BMW</company>
+      <owner>Bob</owner>
+   </car>
+
+   <car atr="carAttribute2">
+      <company>Honda</company>
+      <owner>John</owner>
+   </car>
+</vehicles>
